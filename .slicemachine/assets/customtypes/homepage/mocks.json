@@ -1,0 +1,111 @@
+{
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "home_hero$6abdbdf3-8fed-4227-aa4e-2adad312c7e2",
+        "name": "home_hero",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Exercise"
+                  }
+                }
+              ]
+            },
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Culpa mollit adipisicing magna ut amet. Veniam laborum Lorem aliqua adipisicing aliquip eiusmod labore elit ea dolor consectetur ad."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      },
+      {
+        "key": "resource$90e62c4f-a95e-4041-b45c-ec50a2ff6a06",
+        "name": "resource",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "title": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "heading1",
+                  "content": {
+                    "text": "Gradually"
+                  }
+                }
+              ]
+            },
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Cupidatat amet anim nulla ipsum minim et commodo sit mollit laboris. Est laborum laboris elit incididunt sint non veniam enim non sunt quis duis. Incididunt eu quis aliquip anim proident voluptate quis adipisicing proident ad aute."
+                  }
+                }
+              ]
+            },
+            "link": {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://slicemachine.dev"
+              }
+            },
+            "background": {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+                "width": 3199,
+                "height": 3199
+              },
+              "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869",
+              "width": 3199,
+              "height": 3199,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

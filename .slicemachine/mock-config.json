@@ -1,0 +1,40 @@
+{
+  "_cts": {
+    "homepage": {},
+    "resource": {}
+  },
+  "slices": {
+    "HomeHero": {
+      "default": {
+        "primary": {
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "Resource": {},
+    "Resources": {
+      "default": {
+        "items": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          },
+          "description": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        },
+        "primary": {}
+      }
+    }
+  }
+}

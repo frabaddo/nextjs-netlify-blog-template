@@ -1,0 +1,24 @@
+{
+  "id": "homepage",
+  "label": "homepage",
+  "repeatable": false,
+  "status": true,
+  "json": {
+    "Main": {
+      "slices": {
+        "type": "Slices",
+        "fieldset": "Slice Zone",
+        "config": {
+          "choices": {
+            "home_hero": {
+              "type": "SharedSlice"
+            },
+            "resource": {
+              "type": "SharedSlice"
+            }
+          }
+        }
+      }
+    }
+  }
+}
